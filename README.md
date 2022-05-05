@@ -7,3 +7,5 @@ Probando git de nuevo.
 
 # Hyperblog
 Shido blog
+
+Haciendo forks y pull requests en github.
